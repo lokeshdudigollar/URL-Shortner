@@ -1,4 +1,3 @@
-# URL-Shortner
+# URL Shortener Microservice
 
-Insert the link and then click on Post. Then it will show you a number of short_url enter that number in the url.
-For example if it shows {"original_url":"....","short_url":20} and the url on web search is https://boilerplate-project-urlshortener.fakishdude.repl.co/api/shorturl you should add the number 20 to the url like this: https://boilerplate-project-urlshortener.fakishdude.repl.co/api/shorturl/20
+This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
